@@ -1,0 +1,43 @@
+# .NET build files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.dll
+*.pdb
+*.cache
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# NPM packages
+node_modules/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Resharper files
+_resharper/
+
+# DotCover files
+*.dotCover
+
+# Test results
+[Tt]est[Rr]esult*/
+
+# BenchmarkDotNet.Artifacts
+BenchmarkDotNet.Artifacts/
